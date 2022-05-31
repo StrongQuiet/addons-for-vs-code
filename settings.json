@@ -1,0 +1,20 @@
+{
+  "editor.fontSize": 18,
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "material-icon-theme",
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.format.semicolons": "remove",
+  "prettier.semi": false,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "git.autofetch": true,
+  "editor.tabSize": 2,
+  "git.confirmSync": false,
+  "explorer.confirmDelete": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
